@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "job",
+  "job/meta",
+  "job-factory",
+  "job-factory/meta",
+]
